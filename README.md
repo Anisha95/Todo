@@ -9,7 +9,8 @@ For the front end, please do the following procedures:
     create trivia-web-client-vue
     cd trivia-web-client-vue
     yarn add --save vue-router axios @okta/okta-vue
-    yarn serve ```
+    yarn serve
+```
     
     
     
