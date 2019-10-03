@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # trivia-web-client-vue
 
 ## Project setup
@@ -27,3 +28,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Todo
+>>>>>>> ec9e15bc0d91b3728051e25aeb4c19272f19857d
