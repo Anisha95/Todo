@@ -1,33 +1,15 @@
-<<<<<<< HEAD
-# trivia-web-client-vue
+It's a simple TODO application.
 
-## Project setup
-```
-yarn install
-```
+Backend : PHP Laravel
+FrontEnd : Vue JS
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+For the front end, please do the following procedures:
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# Todo
->>>>>>> ec9e15bc0d91b3728051e25aeb4c19272f19857d
+``` npm install -g @vue/clivue 
+    create trivia-web-client-vue
+    cd trivia-web-client-vue
+    yarn add --save vue-router axios @okta/okta-vue
+    yarn serve ```
+    
+    
+    
